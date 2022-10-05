@@ -1,0 +1,63 @@
+/*Title: left aligned*/
+h1{
+    text-align: left;
+    color:rgb(32, 26, 158);
+}
+
+/*left table folumn not too large*/
+#pic{
+  width:27%;
+}
+
+/*right table column: increase space between lines*/
+#info{
+  line-height: 1.5em;
+}
+
+/*remove underline for links, change link color*/
+a{
+    color:rgb(32, 26, 158);
+    text-decoration: none;;
+}
+
+a:hover{
+    color:brown;
+    text-decoration: none;/*remove the underline*/
+}
+
+/*set page background color, font color*/
+body{
+    background-color:#f4f2e6;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+
+    /*have some space left anf right of the page*/ 
+    padding-right:20px;
+    padding-left:185px;
+  
+}
+
+/*set space when we have a new section; set the border line under the heading*/
+h2 {
+    color:rgb(32, 26, 158);
+    margin-top: 1.5em;
+    border-bottom: 1px solid;
+    
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #e4def2;
+
+  height: 100%;
+  width: 150px;
+
+  padding-top: 20px;
+  padding-left: 15px;
+  font-size: 1.2em;
+  line-height:1.8em;
+  
+}
+
