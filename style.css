@@ -1,5 +1,10 @@
 h1{
-  color:#05467f;
+  color:#0401bc;
+}
+
+h2{
+  color:#0401bc;
+  border-bottom: 1px solid;
 }
 
 a{
@@ -7,19 +12,13 @@ a{
 }
 
 a:hover{
-  color:#7f057b;
+  color:#ff0026;
 }
 
 body{
-  background-color:#f0e2d5;
-  
-  padding-left: 20px;
+  background-color:aliceblue;
+  padding-left: 15px;
   padding-right: 15px;
-}
-
-h2{
-  border-bottom: 1px solid;
-  color:#05467f;
 }
 
 #info{
