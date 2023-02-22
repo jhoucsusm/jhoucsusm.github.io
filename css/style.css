@@ -1,0 +1,7 @@
+/* External Style Sheet, style.css*/
+em {font-weight:bold;
+    color: black;}
+ h1 {font-family:tahoma, helvetica, san-serif;}
+ p  {font-size:12pt;
+     font-family:arial,sans-serif;}
+ .special{color:purple;}
